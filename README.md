@@ -8,6 +8,7 @@ O tema foi escolhido devido à crescente importância da inteligência artificia
 
 O principal objetivo é aprender a criar prompts mais claros, específicos e eficientes, melhorando a qualidade das respostas geradas pela IA e desenvolvendo pensamento crítico.
 
+O NotebookLM foi utilizado como ferramenta principal para organizar as fontes e realizar interações com a IA, permitindo testar diferentes variações de prompts e analisar as respostas geradas.
 ---
 
 ## 📚 Curadoria de Fontes
